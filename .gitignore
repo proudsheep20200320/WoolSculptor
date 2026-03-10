@@ -1,0 +1,23 @@
+```text
+# Python 缓存
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 虚拟环境
+venv/
+env/
+.env
+
+# 编辑器配置
+.vscode/
+.idea/
+.cursorrules
+
+# 运行产物（非常重要，防止把巨大的 .ply 推上去）
+outputs/
+*.ply
+
+# AI 模型权重缓存
+shap_e_model_cache/
+*.pt

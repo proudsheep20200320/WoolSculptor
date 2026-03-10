@@ -1,0 +1,6 @@
+numpy
+open3d
+mcpi
+torch
+torchvision
+torchaudio
