@@ -30,7 +30,7 @@
 ## 🛠️ 安装与运行
 
 ### 1. 环境准备
-本项目需要你的电脑拥有一张支持 CUDA 的 Nvidia 显卡以获取最佳体验。
+本项目需要你的电脑拥有一张支持 CUDA 的 Nvidia 显卡以获取最佳体验，你需要安装CUDA，cu12.8已经经过测试。
 ```bash
 git clone [https://github.com/proudsheep20200320/WoolSculptor.git](https://github.com/proudsheep20200320/WoolSculptor.git)
 cd WoolSculptor
@@ -81,7 +81,7 @@ Type this in the in-game chat:
 ## 🛠️ Quick Start
 
 ### 1. Prerequisites
-An Nvidia GPU with CUDA support is highly recommended for the best experience.
+An Nvidia GPU with CUDA support is highly recommended for the best experience.CUDA 12.8 has been tested.
 ```bash
 git clone [https://github.com/proudsheep20200320/WoolSculptor.git](https://github.com/proudsheep20200320/WoolSculptor.git)
 cd WoolSculptor
