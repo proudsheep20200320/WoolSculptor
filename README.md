@@ -49,6 +49,7 @@ pip install -r requirements.txt
 * **Windows**: `%USERPROFILE%\.cache\shap_e\` (例如 `C:\Users\你的用户名\.cache\shap_e\`)
 * **Mac/Linux**: `~/.cache/shap_e/`
 *(如果没有该文件夹，请手动创建)*
+当然，更新环境变量搜索路径也是可以的！
 
 ### 3. Minecraft 服务端配置
 * 启动带有 **Berry** 或其他兼容 mcpi 协议插件的 Minecraft 服务端（推荐 Paper 1.21+）。
@@ -113,7 +114,7 @@ Once downloaded, place them in your system's Shap-E cache directory:
 * **Windows**: `%USERPROFILE%\.cache\shap_e\` (e.g., `C:\Users\YourUsername\.cache\shap_e\`)
 * **Mac/Linux**: `~/.cache/shap_e/`
 *(Create the directory if it does not exist)*
-
+For sure, add the model path to PATH is OK.
 ### 3. Minecraft Server Setup
 * Start a Minecraft server (Paper 1.21+ recommended) with **Berry** or another `mcpi` compatible plugin installed.
 * Ensure the server is listening on local port `4711`.
